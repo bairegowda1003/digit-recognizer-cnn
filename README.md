@@ -8,7 +8,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.21-FF6F00?logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-3.15-D00000?logo=keras&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Accuracy](https://img.shields.io/badge/Test%20Accuracy-99.07%25-brightgreen)
+![Accuracy](https://img.shields.io/badge/Test%20Accuracy-99.23%25-brightgreen)
 
 </div>
 
