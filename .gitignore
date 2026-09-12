@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+*.png
+!confusion_matrix.png
+!training_curves.png
+!sample_predictions.png
+!model_comparison.png
