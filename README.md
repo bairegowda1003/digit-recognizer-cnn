@@ -117,8 +117,8 @@ python predict.py
 
 - Learned how Conv2D and MaxPooling layers identify image features such as edges, curves, and loops from pixel data.
 - Understood how Dropout helps reduce overfitting and improves the model's ability to generalize to unseen images.
-- How to read training/validation curves to spot overfitting early
-- How to interpret a multi-class confusion matrix to find which digits get confused with each other (here, 9 vs. 7/4 was the main confusion)
+- Learned to analyze training and validation curves to identify signs of overfitting during model training.
+- Gained experience interpreting multi-class confusion matrices to identify commonly misclassified digits, particularly 9, 7, and 4.
 
 ## 📈 Future Improvements
 
